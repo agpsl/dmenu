@@ -1,0 +1,8 @@
+dmenu_path
+dmenu_run
+config.h
+*.diff
+*.png
+*.o
+*.orig
+*.rej
